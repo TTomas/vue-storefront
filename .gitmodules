@@ -6,3 +6,7 @@
 	path = src/modules/vsf-cache-varnish
 	url = https://github.com/new-fantastic/vsf-cache-varnish.git
 	branch = master
+[submodule "src/themes/vsf-capybara"]
+	path = src/themes/vsf-capybara
+	url = https://github.com/TTomas/vsf-capybara.git
+	branch = develop
