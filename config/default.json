@@ -310,7 +310,7 @@
       "loadByAttributeMetadata": false
     },
     "productList": {
-      "sort": "updated_at:desc",
+      "sort": "sku:desc",
       "includeFields": [
         "activity",
         "configurable_children.attributes",
